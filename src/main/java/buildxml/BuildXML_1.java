@@ -53,7 +53,6 @@ public class BuildXML_1 {
 
             //输出字符串
             String string = lsSerializer.writeToString(doc);
-
             System.out.println(string);
 
             //输出到文件
